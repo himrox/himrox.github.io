@@ -1,0 +1,17 @@
+body {
+  color: white;
+  font-size: 16px;
+  font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+  background-image: url("bg.jpg");
+}
+
+.logo img {
+  max-width: 150px;
+  border: 3px solid skyblue;
+  border-radius: 5%;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
