@@ -1,8 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
   color: white;
   font-size: 16px;
   font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
   background-image: url("bg.jpg");
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
 }
 
 .logo img {
@@ -11,7 +21,6 @@ body {
   border-radius: 5%;
 }
 
-h1 {
-  font-weight: bold;
-  text-align: center;
+.app ul {
+  margin-left: 20px;
 }
