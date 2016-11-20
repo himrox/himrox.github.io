@@ -32,7 +32,7 @@ p{
 	font-size: 13px;
 }
 
-a { 
+a {
 	color: #ffffff;
 	transition: all 0.8;
 }
@@ -56,7 +56,7 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/01.jpg);
+	background: url(../img/topImage.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -94,7 +94,7 @@ a:focus{
     background-color: #333;
     color: #fff;
     font-size: 2em;
-    border-radius: 0.5ex;
+    border-radius: 0px;
 }
 #tf-menu.stick {
     position: fixed;
@@ -112,18 +112,18 @@ a:focus{
 	letter-spacing: 1px;
 }
 
-#tf-menu.navbar-default .navbar-nav > li > a:hover, 
+#tf-menu.navbar-default .navbar-nav > li > a:hover,
 #tf-menu.navbar-default .navbar-nav > li > a:focus {
 	color: #2F937B;
 	background-color: transparent;
 }
 
 .logo {
-	font-family: 'Playball', cursive;
+	font-family: 'Comic Sans MS', cursive, 'Impact';
 }
 
 #tf-service{
-	padding: 7% 0; 
+	padding: 7% 0;
 }
 
 .media-left.media-middle i {
@@ -141,7 +141,7 @@ a:focus{
 }
 
 #tf-portfolio{
-	background: #f1f1f1;
+	background: #f1f1e1;
 	padding: 5%  0 8% 0;
 	text-align: center;
 }
@@ -221,12 +221,12 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/07.jpg);
+	background: url(../img/AboutMe.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
-	color: #222222;
+	color: #2e2e2e;
 }
 
 #tf-about .overlay{
