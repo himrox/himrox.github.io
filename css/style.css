@@ -56,7 +56,7 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/TopImage.jpg);
+	background: url(../img/HeroImage.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
