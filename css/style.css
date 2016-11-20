@@ -235,6 +235,11 @@ ul.cat.list-inline li a:hover{
 	padding: 10% 0;
 }
 
+#tf-about p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
 #tf-why-me{
 	background: url(../img/10.jpg);
 	background-size: cover;
@@ -299,4 +304,5 @@ nav#tf-footer {
 	background: #222222;
 	padding: 3% 0 2% 0;
 	color: #f1f1f1;
+  font-size: 18px;
 }
